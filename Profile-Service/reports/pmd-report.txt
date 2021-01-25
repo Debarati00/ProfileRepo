@@ -1,0 +1,480 @@
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:1:	PackageCase: Package name contains upper case characters
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:1:	PackageCase: Package name contains upper case characters
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:25:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:25:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:25:	CommentRequired: Class comments are required
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:25:	CommentRequired: Class comments are required
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:28:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:28:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:28:	CommentRequired: Field comments are required
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:28:	CommentRequired: Field comments are required
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:31:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:31:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:31:	CommentRequired: Field comments are required
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:31:	CommentRequired: Field comments are required
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:33:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:33:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:33:	CommentRequired: Field comments are required
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:33:	CommentRequired: Field comments are required
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:33:	ImmutableField: Private field 'topic' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:33:	ImmutableField: Private field 'topic' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:35:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:35:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:35:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the messageSpecs field if you want a default access modifier
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:35:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the messageSpecs field if you want a default access modifier
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:35:	CommentRequired: Field comments are required
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:35:	CommentRequired: Field comments are required
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:35:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:35:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:36:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:36:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:36:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the time field if you want a default access modifier
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:36:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the time field if you want a default access modifier
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:36:	CommentRequired: Field comments are required
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:36:	CommentRequired: Field comments are required
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:36:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:36:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:37:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:37:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:37:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the messages field if you want a default access modifier
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:37:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the messages field if you want a default access modifier
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:37:	CommentRequired: Field comments are required
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:37:	CommentRequired: Field comments are required
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:37:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:37:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:40:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:40:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:44:	CommentSize: Comment is too large: Line too long
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:44:	CommentSize: Comment is too large: Line too long
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:51:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:51:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:51:	MethodArgumentCouldBeFinal: Parameter 'data' is not assigned and could be declared final
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:51:	MethodArgumentCouldBeFinal: Parameter 'data' is not assigned and could be declared final
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:57:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:57:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:58:	LocalVariableCouldBeFinal: Local variable 'profileList' could be declared final
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:58:	LocalVariableCouldBeFinal: Local variable 'profileList' could be declared final
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:59:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:59:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:59:	UseCollectionIsEmpty: Substitute calls to size() == 0 (or size() != 0, size() > 0, size() < 1) with calls to isEmpty()
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:59:	UseCollectionIsEmpty: Substitute calls to size() == 0 (or size() != 0, size() > 0, size() < 1) with calls to isEmpty()
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:65:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:65:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:67:	ControlStatementBraces: This statement should have braces
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:67:	ControlStatementBraces: This statement should have braces
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:67:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:67:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:71:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:71:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:71:	MethodArgumentCouldBeFinal: Parameter 'profileId' is not assigned and could be declared final
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:71:	MethodArgumentCouldBeFinal: Parameter 'profileId' is not assigned and could be declared final
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:72:	LocalVariableCouldBeFinal: Local variable 'profile' could be declared final
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:72:	LocalVariableCouldBeFinal: Local variable 'profile' could be declared final
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:73:	ConfusingTernary: Avoid if (x != y) ..; else ..;
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:73:	ConfusingTernary: Avoid if (x != y) ..; else ..;
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:79:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:79:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:82:	ControlStatementBraces: This statement should have braces
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:82:	ControlStatementBraces: This statement should have braces
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:82:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:82:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:87:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:87:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:87:	MethodArgumentCouldBeFinal: Parameter 'profile' is not assigned and could be declared final
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:87:	MethodArgumentCouldBeFinal: Parameter 'profile' is not assigned and could be declared final
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:88:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'profile2' (lines '88'-'99').
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:88:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'profile2' (lines '88'-'99').
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:88:	LocalVariableCouldBeFinal: Local variable 'profile2' could be declared final
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:88:	LocalVariableCouldBeFinal: Local variable 'profile2' could be declared final
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:89:	ConfusingTernary: Avoid if (x != y) ..; else ..;
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:89:	ConfusingTernary: Avoid if (x != y) ..; else ..;
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:95:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:95:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:97:	ControlStatementBraces: This statement should have braces
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:97:	ControlStatementBraces: This statement should have braces
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:97:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:97:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:102:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:102:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:102:	MethodArgumentCouldBeFinal: Parameter 'profile' is not assigned and could be declared final
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:102:	MethodArgumentCouldBeFinal: Parameter 'profile' is not assigned and could be declared final
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:102:	MethodArgumentCouldBeFinal: Parameter 'profileId' is not assigned and could be declared final
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:102:	MethodArgumentCouldBeFinal: Parameter 'profileId' is not assigned and could be declared final
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:103:	LocalVariableCouldBeFinal: Local variable 'profile2' could be declared final
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:103:	LocalVariableCouldBeFinal: Local variable 'profile2' could be declared final
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:104:	ConfusingTernary: Avoid if (x != y) ..; else ..;
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:104:	ConfusingTernary: Avoid if (x != y) ..; else ..;
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:105:	LocalVariableCouldBeFinal: Local variable 'profileNew' could be declared final
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:105:	LocalVariableCouldBeFinal: Local variable 'profileNew' could be declared final
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:111:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:111:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:113:	ControlStatementBraces: This statement should have braces
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:113:	ControlStatementBraces: This statement should have braces
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:113:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:113:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:118:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:118:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:118:	MethodArgumentCouldBeFinal: Parameter 'profileId' is not assigned and could be declared final
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:118:	MethodArgumentCouldBeFinal: Parameter 'profileId' is not assigned and could be declared final
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:119:	LocalVariableCouldBeFinal: Local variable 'profile' could be declared final
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:119:	LocalVariableCouldBeFinal: Local variable 'profile' could be declared final
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:120:	ConfusingTernary: Avoid if (x != y) ..; else ..;
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:120:	ConfusingTernary: Avoid if (x != y) ..; else ..;
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:127:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:127:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:129:	ControlStatementBraces: This statement should have braces
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:129:	ControlStatementBraces: This statement should have braces
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:129:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/main/java/com/pack/Profileservice/Controller/ProfileController.java:129:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/main/java/com/pack/Profileservice/Dao/ProfileRepository.java:1:	PackageCase: Package name contains upper case characters
+src/main/java/com/pack/Profileservice/Dao/ProfileRepository.java:1:	PackageCase: Package name contains upper case characters
+src/main/java/com/pack/Profileservice/Dao/ProfileRepository.java:9:	CommentRequired: Class comments are required
+src/main/java/com/pack/Profileservice/Dao/ProfileRepository.java:9:	CommentRequired: Class comments are required
+src/main/java/com/pack/Profileservice/Entity/CollectionRules.java:1:	PackageCase: Package name contains upper case characters
+src/main/java/com/pack/Profileservice/Entity/CollectionRules.java:1:	PackageCase: Package name contains upper case characters
+src/main/java/com/pack/Profileservice/Entity/CollectionRules.java:22:	CommentRequired: Class comments are required
+src/main/java/com/pack/Profileservice/Entity/CollectionRules.java:22:	CommentRequired: Class comments are required
+src/main/java/com/pack/Profileservice/Entity/CollectionRules.java:27:	CommentRequired: Field comments are required
+src/main/java/com/pack/Profileservice/Entity/CollectionRules.java:27:	CommentRequired: Field comments are required
+src/main/java/com/pack/Profileservice/Entity/CollectionRules.java:28:	CommentRequired: Field comments are required
+src/main/java/com/pack/Profileservice/Entity/CollectionRules.java:28:	CommentRequired: Field comments are required
+src/main/java/com/pack/Profileservice/Entity/CollectionRules.java:29:	CommentRequired: Field comments are required
+src/main/java/com/pack/Profileservice/Entity/CollectionRules.java:29:	CommentRequired: Field comments are required
+src/main/java/com/pack/Profileservice/Entity/CollectionRules.java:29:	LongVariable: Avoid excessively long variable names like paymentProcessingEnabled
+src/main/java/com/pack/Profileservice/Entity/CollectionRules.java:29:	LongVariable: Avoid excessively long variable names like paymentProcessingEnabled
+src/main/java/com/pack/Profileservice/Entity/CollectionRules.java:30:	CommentRequired: Field comments are required
+src/main/java/com/pack/Profileservice/Entity/CollectionRules.java:30:	CommentRequired: Field comments are required
+src/main/java/com/pack/Profileservice/Entity/CollectionRules.java:34:	CommentRequired: Field comments are required
+src/main/java/com/pack/Profileservice/Entity/CollectionRules.java:34:	CommentRequired: Field comments are required
+src/main/java/com/pack/Profileservice/Entity/Orderss.java:1:	PackageCase: Package name contains upper case characters
+src/main/java/com/pack/Profileservice/Entity/Orderss.java:1:	PackageCase: Package name contains upper case characters
+src/main/java/com/pack/Profileservice/Entity/Orderss.java:22:	CommentRequired: Class comments are required
+src/main/java/com/pack/Profileservice/Entity/Orderss.java:22:	CommentRequired: Class comments are required
+src/main/java/com/pack/Profileservice/Entity/Orderss.java:28:	CommentRequired: Field comments are required
+src/main/java/com/pack/Profileservice/Entity/Orderss.java:28:	CommentRequired: Field comments are required
+src/main/java/com/pack/Profileservice/Entity/Orderss.java:29:	CommentRequired: Field comments are required
+src/main/java/com/pack/Profileservice/Entity/Orderss.java:29:	CommentRequired: Field comments are required
+src/main/java/com/pack/Profileservice/Entity/Orderss.java:30:	CommentRequired: Field comments are required
+src/main/java/com/pack/Profileservice/Entity/Orderss.java:30:	CommentRequired: Field comments are required
+src/main/java/com/pack/Profileservice/Entity/Orderss.java:31:	CommentRequired: Field comments are required
+src/main/java/com/pack/Profileservice/Entity/Orderss.java:31:	CommentRequired: Field comments are required
+src/main/java/com/pack/Profileservice/Entity/Orderss.java:31:	LongVariable: Avoid excessively long variable names like orderFulfillmentType
+src/main/java/com/pack/Profileservice/Entity/Orderss.java:31:	LongVariable: Avoid excessively long variable names like orderFulfillmentType
+src/main/java/com/pack/Profileservice/Entity/Orderss.java:32:	CommentRequired: Field comments are required
+src/main/java/com/pack/Profileservice/Entity/Orderss.java:32:	CommentRequired: Field comments are required
+src/main/java/com/pack/Profileservice/Entity/Orderss.java:36:	CommentRequired: Field comments are required
+src/main/java/com/pack/Profileservice/Entity/Orderss.java:36:	CommentRequired: Field comments are required
+src/main/java/com/pack/Profileservice/Entity/Profile.java:1:	PackageCase: Package name contains upper case characters
+src/main/java/com/pack/Profileservice/Entity/Profile.java:1:	PackageCase: Package name contains upper case characters
+src/main/java/com/pack/Profileservice/Entity/Profile.java:23:	CommentRequired: Class comments are required
+src/main/java/com/pack/Profileservice/Entity/Profile.java:23:	CommentRequired: Class comments are required
+src/main/java/com/pack/Profileservice/Entity/Profile.java:29:	CommentRequired: Field comments are required
+src/main/java/com/pack/Profileservice/Entity/Profile.java:29:	CommentRequired: Field comments are required
+src/main/java/com/pack/Profileservice/Entity/Profile.java:30:	CommentRequired: Field comments are required
+src/main/java/com/pack/Profileservice/Entity/Profile.java:30:	CommentRequired: Field comments are required
+src/main/java/com/pack/Profileservice/Entity/Profile.java:31:	CommentRequired: Field comments are required
+src/main/java/com/pack/Profileservice/Entity/Profile.java:31:	CommentRequired: Field comments are required
+src/main/java/com/pack/Profileservice/Entity/Profile.java:32:	CommentRequired: Field comments are required
+src/main/java/com/pack/Profileservice/Entity/Profile.java:32:	CommentRequired: Field comments are required
+src/main/java/com/pack/Profileservice/Entity/Profile.java:33:	CommentRequired: Field comments are required
+src/main/java/com/pack/Profileservice/Entity/Profile.java:33:	CommentRequired: Field comments are required
+src/main/java/com/pack/Profileservice/Entity/Profile.java:38:	CommentRequired: Field comments are required
+src/main/java/com/pack/Profileservice/Entity/Profile.java:38:	CommentRequired: Field comments are required
+src/main/java/com/pack/Profileservice/Entity/Profile.java:42:	CommentRequired: Field comments are required
+src/main/java/com/pack/Profileservice/Entity/Profile.java:42:	CommentRequired: Field comments are required
+src/main/java/com/pack/Profileservice/ProfileServiceApplication.java:1:	PackageCase: Package name contains upper case characters
+src/main/java/com/pack/Profileservice/ProfileServiceApplication.java:1:	PackageCase: Package name contains upper case characters
+src/main/java/com/pack/Profileservice/ProfileServiceApplication.java:14:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/pack/Profileservice/ProfileServiceApplication.java:14:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/pack/Profileservice/ProfileServiceApplication.java:14:	CommentRequired: Class comments are required
+src/main/java/com/pack/Profileservice/ProfileServiceApplication.java:14:	CommentRequired: Class comments are required
+src/main/java/com/pack/Profileservice/ProfileServiceApplication.java:16:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/Profileservice/ProfileServiceApplication.java:16:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/Profileservice/ProfileServiceApplication.java:16:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main/java/com/pack/Profileservice/ProfileServiceApplication.java:16:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main/java/com/pack/Profileservice/ProfileServiceApplication.java:21:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/Profileservice/ProfileServiceApplication.java:21:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/Profileservice/ProfileServiceApplication.java:22:	LocalVariableCouldBeFinal: Local variable 'filterRegistrationBean' could be declared final
+src/main/java/com/pack/Profileservice/ProfileServiceApplication.java:22:	LocalVariableCouldBeFinal: Local variable 'filterRegistrationBean' could be declared final
+src/main/java/com/pack/Profileservice/ProfileServiceApplication.java:22:	LongVariable: Avoid excessively long variable names like filterRegistrationBean
+src/main/java/com/pack/Profileservice/ProfileServiceApplication.java:22:	LongVariable: Avoid excessively long variable names like filterRegistrationBean
+src/main/java/com/pack/Profileservice/ProfileServiceApplication.java:23:	LocalVariableCouldBeFinal: Local variable 'myFilter' could be declared final
+src/main/java/com/pack/Profileservice/ProfileServiceApplication.java:23:	LocalVariableCouldBeFinal: Local variable 'myFilter' could be declared final
+src/main/java/com/pack/Profileservice/Service/ProfileService.java:1:	PackageCase: Package name contains upper case characters
+src/main/java/com/pack/Profileservice/Service/ProfileService.java:1:	PackageCase: Package name contains upper case characters
+src/main/java/com/pack/Profileservice/Service/ProfileService.java:6:	CommentRequired: Class comments are required
+src/main/java/com/pack/Profileservice/Service/ProfileService.java:6:	CommentRequired: Class comments are required
+src/main/java/com/pack/Profileservice/Service/ProfileService.java:8:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/Profileservice/Service/ProfileService.java:8:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/Profileservice/Service/ProfileService.java:8:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getAllProfiles': the method is declared in an interface type
+src/main/java/com/pack/Profileservice/Service/ProfileService.java:8:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getAllProfiles': the method is declared in an interface type
+src/main/java/com/pack/Profileservice/Service/ProfileService.java:9:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/Profileservice/Service/ProfileService.java:9:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/Profileservice/Service/ProfileService.java:9:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getProfileById': the method is declared in an interface type
+src/main/java/com/pack/Profileservice/Service/ProfileService.java:9:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getProfileById': the method is declared in an interface type
+src/main/java/com/pack/Profileservice/Service/ProfileService.java:10:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/Profileservice/Service/ProfileService.java:10:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/Profileservice/Service/ProfileService.java:10:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'addProfiles': the method is declared in an interface type
+src/main/java/com/pack/Profileservice/Service/ProfileService.java:10:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'addProfiles': the method is declared in an interface type
+src/main/java/com/pack/Profileservice/Service/ProfileService.java:11:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/Profileservice/Service/ProfileService.java:11:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/Profileservice/Service/ProfileService.java:11:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'updateProfiles': the method is declared in an interface type
+src/main/java/com/pack/Profileservice/Service/ProfileService.java:11:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'updateProfiles': the method is declared in an interface type
+src/main/java/com/pack/Profileservice/Service/ProfileService.java:12:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/Profileservice/Service/ProfileService.java:12:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/Profileservice/Service/ProfileService.java:12:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'deleteProfileById': the method is declared in an interface type
+src/main/java/com/pack/Profileservice/Service/ProfileService.java:12:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'deleteProfileById': the method is declared in an interface type
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:1:	PackageCase: Package name contains upper case characters
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:1:	PackageCase: Package name contains upper case characters
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:20:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:20:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:20:	CommentRequired: Class comments are required
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:20:	CommentRequired: Class comments are required
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:22:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:22:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:22:	CommentRequired: Field comments are required
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:22:	CommentRequired: Field comments are required
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:29:	LocalVariableCouldBeFinal: Local variable 'profileList' could be declared final
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:29:	LocalVariableCouldBeFinal: Local variable 'profileList' could be declared final
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:30:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:30:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:30:	UseCollectionIsEmpty: Substitute calls to size() == 0 (or size() != 0, size() > 0, size() < 1) with calls to isEmpty()
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:30:	UseCollectionIsEmpty: Substitute calls to size() == 0 (or size() != 0, size() > 0, size() < 1) with calls to isEmpty()
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:34:	ControlStatementBraces: This statement should have braces
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:34:	ControlStatementBraces: This statement should have braces
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:34:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:34:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:40:	AvoidDuplicateLiterals: The String literal "profile" appears 4 times in this file; the first occurrence is on line 40
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:40:	AvoidDuplicateLiterals: The String literal "profile" appears 4 times in this file; the first occurrence is on line 40
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:41:	MethodArgumentCouldBeFinal: Parameter 'profileId' is not assigned and could be declared final
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:41:	MethodArgumentCouldBeFinal: Parameter 'profileId' is not assigned and could be declared final
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:43:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:43:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:43:	LocalVariableCouldBeFinal: Local variable 'profile' could be declared final
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:43:	LocalVariableCouldBeFinal: Local variable 'profile' could be declared final
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:44:	ConfusingTernary: Avoid if (x != y) ..; else ..;
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:44:	ConfusingTernary: Avoid if (x != y) ..; else ..;
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:60:	MethodArgumentCouldBeFinal: Parameter 'profile' is not assigned and could be declared final
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:60:	MethodArgumentCouldBeFinal: Parameter 'profile' is not assigned and could be declared final
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:62:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:62:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:62:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:62:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:62:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:62:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:62:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:62:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:62:	UselessParentheses: Useless parentheses.
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:62:	UselessParentheses: Useless parentheses.
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:62:	UselessParentheses: Useless parentheses.
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:62:	UselessParentheses: Useless parentheses.
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:62:	UselessParentheses: Useless parentheses.
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:62:	UselessParentheses: Useless parentheses.
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:62:	UselessParentheses: Useless parentheses.
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:62:	UselessParentheses: Useless parentheses.
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:63:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:63:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:63:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:63:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:63:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:63:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:63:	UselessParentheses: Useless parentheses.
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:63:	UselessParentheses: Useless parentheses.
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:63:	UselessParentheses: Useless parentheses.
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:63:	UselessParentheses: Useless parentheses.
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:63:	UselessParentheses: Useless parentheses.
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:63:	UselessParentheses: Useless parentheses.
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:68:	ControlStatementBraces: This statement should have braces
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:68:	ControlStatementBraces: This statement should have braces
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:68:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:68:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:75:	MethodArgumentCouldBeFinal: Parameter 'profile' is not assigned and could be declared final
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:75:	MethodArgumentCouldBeFinal: Parameter 'profile' is not assigned and could be declared final
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:75:	MethodArgumentCouldBeFinal: Parameter 'profileId' is not assigned and could be declared final
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:75:	MethodArgumentCouldBeFinal: Parameter 'profileId' is not assigned and could be declared final
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:77:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:77:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:77:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:77:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:77:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:77:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:77:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:77:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:77:	UselessParentheses: Useless parentheses.
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:77:	UselessParentheses: Useless parentheses.
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:77:	UselessParentheses: Useless parentheses.
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:77:	UselessParentheses: Useless parentheses.
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:77:	UselessParentheses: Useless parentheses.
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:77:	UselessParentheses: Useless parentheses.
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:77:	UselessParentheses: Useless parentheses.
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:77:	UselessParentheses: Useless parentheses.
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:78:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:78:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:78:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:78:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:78:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:78:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:78:	UselessParentheses: Useless parentheses.
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:78:	UselessParentheses: Useless parentheses.
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:78:	UselessParentheses: Useless parentheses.
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:78:	UselessParentheses: Useless parentheses.
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:78:	UselessParentheses: Useless parentheses.
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:78:	UselessParentheses: Useless parentheses.
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:81:	ControlStatementBraces: This statement should have braces
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:81:	ControlStatementBraces: This statement should have braces
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:81:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:81:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:88:	MethodArgumentCouldBeFinal: Parameter 'profileId' is not assigned and could be declared final
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:88:	MethodArgumentCouldBeFinal: Parameter 'profileId' is not assigned and could be declared final
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:90:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:90:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:90:	LocalVariableCouldBeFinal: Local variable 'profile' could be declared final
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:90:	LocalVariableCouldBeFinal: Local variable 'profile' could be declared final
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:95:	ControlStatementBraces: This statement should have braces
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:95:	ControlStatementBraces: This statement should have braces
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:95:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/main/java/com/pack/Profileservice/Service/ProfileServiceImpl.java:95:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/main/java/com/pack/Profileservice/config/KafkaConsumerConfig.java:1:	PackageCase: Package name contains upper case characters
+src/main/java/com/pack/Profileservice/config/KafkaConsumerConfig.java:1:	PackageCase: Package name contains upper case characters
+src/main/java/com/pack/Profileservice/config/KafkaConsumerConfig.java:16:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/pack/Profileservice/config/KafkaConsumerConfig.java:16:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/pack/Profileservice/config/KafkaConsumerConfig.java:16:	CommentRequired: Class comments are required
+src/main/java/com/pack/Profileservice/config/KafkaConsumerConfig.java:16:	CommentRequired: Class comments are required
+src/main/java/com/pack/Profileservice/config/KafkaConsumerConfig.java:19:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/Profileservice/config/KafkaConsumerConfig.java:19:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/Profileservice/config/KafkaConsumerConfig.java:20:	LocalVariableCouldBeFinal: Local variable 'configs' could be declared final
+src/main/java/com/pack/Profileservice/config/KafkaConsumerConfig.java:20:	LocalVariableCouldBeFinal: Local variable 'configs' could be declared final
+src/main/java/com/pack/Profileservice/config/KafkaConsumerConfig.java:20:	UseConcurrentHashMap: If you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation
+src/main/java/com/pack/Profileservice/config/KafkaConsumerConfig.java:20:	UseConcurrentHashMap: If you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation
+src/main/java/com/pack/Profileservice/config/KafkaConsumerConfig.java:30:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/Profileservice/config/KafkaConsumerConfig.java:30:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/Profileservice/config/KafkaConsumerConfig.java:31:	LocalVariableCouldBeFinal: Local variable 'factory' could be declared final
+src/main/java/com/pack/Profileservice/config/KafkaConsumerConfig.java:31:	LocalVariableCouldBeFinal: Local variable 'factory' could be declared final
+src/main/java/com/pack/Profileservice/config/KafkaConsumerConfig.java:31:	UseDiamondOperator: Explicit type arguments can be replaced by Diamond Operator
+src/main/java/com/pack/Profileservice/config/KafkaConsumerConfig.java:31:	UseDiamondOperator: Explicit type arguments can be replaced by Diamond Operator
+src/main/java/com/pack/Profileservice/config/KafkaPublisherConfig.java:1:	PackageCase: Package name contains upper case characters
+src/main/java/com/pack/Profileservice/config/KafkaPublisherConfig.java:1:	PackageCase: Package name contains upper case characters
+src/main/java/com/pack/Profileservice/config/KafkaPublisherConfig.java:10:	UnusedImports: Avoid unused imports such as 'org.springframework.kafka.annotation.EnableKafka'
+src/main/java/com/pack/Profileservice/config/KafkaPublisherConfig.java:10:	UnusedImports: Avoid unused imports such as 'org.springframework.kafka.annotation.EnableKafka'
+src/main/java/com/pack/Profileservice/config/KafkaPublisherConfig.java:18:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/pack/Profileservice/config/KafkaPublisherConfig.java:18:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/pack/Profileservice/config/KafkaPublisherConfig.java:18:	CommentRequired: Class comments are required
+src/main/java/com/pack/Profileservice/config/KafkaPublisherConfig.java:18:	CommentRequired: Class comments are required
+src/main/java/com/pack/Profileservice/config/KafkaPublisherConfig.java:21:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/Profileservice/config/KafkaPublisherConfig.java:21:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/Profileservice/config/KafkaPublisherConfig.java:22:	LocalVariableCouldBeFinal: Local variable 'configs' could be declared final
+src/main/java/com/pack/Profileservice/config/KafkaPublisherConfig.java:22:	LocalVariableCouldBeFinal: Local variable 'configs' could be declared final
+src/main/java/com/pack/Profileservice/config/KafkaPublisherConfig.java:22:	UseConcurrentHashMap: If you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation
+src/main/java/com/pack/Profileservice/config/KafkaPublisherConfig.java:22:	UseConcurrentHashMap: If you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation
+src/main/java/com/pack/Profileservice/config/KafkaPublisherConfig.java:30:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/Profileservice/config/KafkaPublisherConfig.java:30:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/Profileservice/config/MyFilter.java:1:	PackageCase: Package name contains upper case characters
+src/main/java/com/pack/Profileservice/config/MyFilter.java:1:	PackageCase: Package name contains upper case characters
+src/main/java/com/pack/Profileservice/config/MyFilter.java:8:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/pack/Profileservice/config/MyFilter.java:8:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/pack/Profileservice/config/MyFilter.java:8:	CommentRequired: Class comments are required
+src/main/java/com/pack/Profileservice/config/MyFilter.java:8:	CommentRequired: Class comments are required
+src/main/java/com/pack/Profileservice/config/MyFilter.java:11:	MethodArgumentCouldBeFinal: Parameter 'filterConfig' is not assigned and could be declared final
+src/main/java/com/pack/Profileservice/config/MyFilter.java:11:	MethodArgumentCouldBeFinal: Parameter 'filterConfig' is not assigned and could be declared final
+src/main/java/com/pack/Profileservice/config/MyFilter.java:11:	UncommentedEmptyMethodBody: Document empty method body
+src/main/java/com/pack/Profileservice/config/MyFilter.java:11:	UncommentedEmptyMethodBody: Document empty method body
+src/main/java/com/pack/Profileservice/config/MyFilter.java:15:	MethodArgumentCouldBeFinal: Parameter 'filterChain' is not assigned and could be declared final
+src/main/java/com/pack/Profileservice/config/MyFilter.java:15:	MethodArgumentCouldBeFinal: Parameter 'filterChain' is not assigned and could be declared final
+src/main/java/com/pack/Profileservice/config/MyFilter.java:15:	MethodArgumentCouldBeFinal: Parameter 'servletRequest' is not assigned and could be declared final
+src/main/java/com/pack/Profileservice/config/MyFilter.java:15:	MethodArgumentCouldBeFinal: Parameter 'servletRequest' is not assigned and could be declared final
+src/main/java/com/pack/Profileservice/config/MyFilter.java:15:	MethodArgumentCouldBeFinal: Parameter 'servletResponse' is not assigned and could be declared final
+src/main/java/com/pack/Profileservice/config/MyFilter.java:15:	MethodArgumentCouldBeFinal: Parameter 'servletResponse' is not assigned and could be declared final
+src/main/java/com/pack/Profileservice/config/MyFilter.java:17:	LocalVariableCouldBeFinal: Local variable 'request' could be declared final
+src/main/java/com/pack/Profileservice/config/MyFilter.java:17:	LocalVariableCouldBeFinal: Local variable 'request' could be declared final
+src/main/java/com/pack/Profileservice/config/MyFilter.java:18:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'response' (lines '18'-'24').
+src/main/java/com/pack/Profileservice/config/MyFilter.java:18:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'response' (lines '18'-'24').
+src/main/java/com/pack/Profileservice/config/MyFilter.java:18:	LocalVariableCouldBeFinal: Local variable 'response' could be declared final
+src/main/java/com/pack/Profileservice/config/MyFilter.java:18:	LocalVariableCouldBeFinal: Local variable 'response' could be declared final
+src/main/java/com/pack/Profileservice/config/MyFilter.java:19:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/pack/Profileservice/config/MyFilter.java:19:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/pack/Profileservice/config/MyFilter.java:19:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/pack/Profileservice/config/MyFilter.java:19:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/pack/Profileservice/config/MyFilter.java:19:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/main/java/com/pack/Profileservice/config/MyFilter.java:19:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/main/java/com/pack/Profileservice/config/MyFilter.java:27:	UncommentedEmptyMethodBody: Document empty method body
+src/main/java/com/pack/Profileservice/config/MyFilter.java:27:	UncommentedEmptyMethodBody: Document empty method body
+src/main/java/com/pack/Profileservice/config/SwaggerConfig.java:1:	PackageCase: Package name contains upper case characters
+src/main/java/com/pack/Profileservice/config/SwaggerConfig.java:1:	PackageCase: Package name contains upper case characters
+src/main/java/com/pack/Profileservice/config/SwaggerConfig.java:14:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/pack/Profileservice/config/SwaggerConfig.java:14:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/pack/Profileservice/config/SwaggerConfig.java:14:	CommentRequired: Class comments are required
+src/main/java/com/pack/Profileservice/config/SwaggerConfig.java:14:	CommentRequired: Class comments are required
+src/main/java/com/pack/Profileservice/config/SwaggerConfig.java:17:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/Profileservice/config/SwaggerConfig.java:17:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/Profileservice/error/ProfileListEmptyException.java:1:	PackageCase: Package name contains upper case characters
+src/main/java/com/pack/Profileservice/error/ProfileListEmptyException.java:1:	PackageCase: Package name contains upper case characters
+src/main/java/com/pack/Profileservice/error/ProfileListEmptyException.java:7:	CommentRequired: Class comments are required
+src/main/java/com/pack/Profileservice/error/ProfileListEmptyException.java:7:	CommentRequired: Class comments are required
+src/main/java/com/pack/Profileservice/error/ProfileListEmptyException.java:10:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/Profileservice/error/ProfileListEmptyException.java:10:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/Profileservice/error/ProfileNotFoundException.java:1:	PackageCase: Package name contains upper case characters
+src/main/java/com/pack/Profileservice/error/ProfileNotFoundException.java:1:	PackageCase: Package name contains upper case characters
+src/main/java/com/pack/Profileservice/error/ProfileNotFoundException.java:7:	CommentRequired: Class comments are required
+src/main/java/com/pack/Profileservice/error/ProfileNotFoundException.java:7:	CommentRequired: Class comments are required
+src/main/java/com/pack/Profileservice/error/ProfileNotFoundException.java:10:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/Profileservice/error/ProfileNotFoundException.java:10:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/Profileservice/error/ProfileServiceExceptionHandler.java:1:	PackageCase: Package name contains upper case characters
+src/main/java/com/pack/Profileservice/error/ProfileServiceExceptionHandler.java:1:	PackageCase: Package name contains upper case characters
+src/main/java/com/pack/Profileservice/error/ProfileServiceExceptionHandler.java:12:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/pack/Profileservice/error/ProfileServiceExceptionHandler.java:12:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/pack/Profileservice/error/ProfileServiceExceptionHandler.java:12:	CommentRequired: Class comments are required
+src/main/java/com/pack/Profileservice/error/ProfileServiceExceptionHandler.java:12:	CommentRequired: Class comments are required
+src/main/java/com/pack/Profileservice/error/ProfileServiceExceptionHandler.java:15:	UnnecessaryAnnotationValueElement: Avoid the use of value in annotations when its the only element
+src/main/java/com/pack/Profileservice/error/ProfileServiceExceptionHandler.java:15:	UnnecessaryAnnotationValueElement: Avoid the use of value in annotations when its the only element
+src/main/java/com/pack/Profileservice/error/ProfileServiceExceptionHandler.java:16:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/Profileservice/error/ProfileServiceExceptionHandler.java:16:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/Profileservice/error/ProfileServiceExceptionHandler.java:17:	LocalVariableCouldBeFinal: Local variable 'error' could be declared final
+src/main/java/com/pack/Profileservice/error/ProfileServiceExceptionHandler.java:17:	LocalVariableCouldBeFinal: Local variable 'error' could be declared final
+src/main/java/com/pack/Profileservice/error/ProfileServiceExceptionHandler.java:24:	UnnecessaryAnnotationValueElement: Avoid the use of value in annotations when its the only element
+src/main/java/com/pack/Profileservice/error/ProfileServiceExceptionHandler.java:24:	UnnecessaryAnnotationValueElement: Avoid the use of value in annotations when its the only element
+src/main/java/com/pack/Profileservice/error/ProfileServiceExceptionHandler.java:25:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/Profileservice/error/ProfileServiceExceptionHandler.java:25:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/Profileservice/error/ProfileServiceExceptionHandler.java:26:	LocalVariableCouldBeFinal: Local variable 'error' could be declared final
+src/main/java/com/pack/Profileservice/error/ProfileServiceExceptionHandler.java:26:	LocalVariableCouldBeFinal: Local variable 'error' could be declared final
+src/main/java/com/pack/Profileservice/error/ProfileServiceExceptionHandler.java:33:	UnnecessaryAnnotationValueElement: Avoid the use of value in annotations when its the only element
+src/main/java/com/pack/Profileservice/error/ProfileServiceExceptionHandler.java:33:	UnnecessaryAnnotationValueElement: Avoid the use of value in annotations when its the only element
+src/main/java/com/pack/Profileservice/error/ProfileServiceExceptionHandler.java:34:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/Profileservice/error/ProfileServiceExceptionHandler.java:34:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/Profileservice/error/ProfileServiceExceptionHandler.java:35:	LocalVariableCouldBeFinal: Local variable 'error' could be declared final
+src/main/java/com/pack/Profileservice/error/ProfileServiceExceptionHandler.java:35:	LocalVariableCouldBeFinal: Local variable 'error' could be declared final
+src/main/java/com/pack/Profileservice/error/ProfileSpecificationsMissingException.java:1:	PackageCase: Package name contains upper case characters
+src/main/java/com/pack/Profileservice/error/ProfileSpecificationsMissingException.java:1:	PackageCase: Package name contains upper case characters
+src/main/java/com/pack/Profileservice/error/ProfileSpecificationsMissingException.java:7:	CommentRequired: Class comments are required
+src/main/java/com/pack/Profileservice/error/ProfileSpecificationsMissingException.java:7:	CommentRequired: Class comments are required
+src/main/java/com/pack/Profileservice/error/ProfileSpecificationsMissingException.java:10:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/Profileservice/error/ProfileSpecificationsMissingException.java:10:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/Profileservice/model/ExceptionResponse.java:1:	PackageCase: Package name contains upper case characters
+src/main/java/com/pack/Profileservice/model/ExceptionResponse.java:1:	PackageCase: Package name contains upper case characters
+src/main/java/com/pack/Profileservice/model/ExceptionResponse.java:12:	CommentRequired: Class comments are required
+src/main/java/com/pack/Profileservice/model/ExceptionResponse.java:12:	CommentRequired: Class comments are required
+src/main/java/com/pack/Profileservice/model/ExceptionResponse.java:13:	CommentRequired: Field comments are required
+src/main/java/com/pack/Profileservice/model/ExceptionResponse.java:13:	CommentRequired: Field comments are required
+src/main/java/com/pack/Profileservice/model/ExceptionResponse.java:14:	CommentRequired: Field comments are required
+src/main/java/com/pack/Profileservice/model/ExceptionResponse.java:14:	CommentRequired: Field comments are required
+src/main/java/com/pack/Profileservice/model/MessageSpecs.java:1:	PackageCase: Package name contains upper case characters
+src/main/java/com/pack/Profileservice/model/MessageSpecs.java:1:	PackageCase: Package name contains upper case characters
+src/main/java/com/pack/Profileservice/model/MessageSpecs.java:12:	CommentRequired: Class comments are required
+src/main/java/com/pack/Profileservice/model/MessageSpecs.java:12:	CommentRequired: Class comments are required
+src/main/java/com/pack/Profileservice/model/MessageSpecs.java:13:	CommentRequired: Field comments are required
+src/main/java/com/pack/Profileservice/model/MessageSpecs.java:13:	CommentRequired: Field comments are required
+src/main/java/com/pack/Profileservice/model/MessageSpecs.java:14:	CommentRequired: Field comments are required
+src/main/java/com/pack/Profileservice/model/MessageSpecs.java:14:	CommentRequired: Field comments are required
+src/main/java/com/pack/Profileservice/model/MessageSpecs.java:15:	CommentRequired: Field comments are required
+src/main/java/com/pack/Profileservice/model/MessageSpecs.java:15:	CommentRequired: Field comments are required
+src/test/java/com/pack/Profileservice/ProfileServiceApplicationTests.java:1:	PackageCase: Package name contains upper case characters
+src/test/java/com/pack/Profileservice/ProfileServiceApplicationTests.java:1:	PackageCase: Package name contains upper case characters
+src/test/java/com/pack/Profileservice/ProfileServiceApplicationTests.java:7:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/pack/Profileservice/ProfileServiceApplicationTests.java:7:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/pack/Profileservice/ProfileServiceApplicationTests.java:7:	CommentRequired: Class comments are required
+src/test/java/com/pack/Profileservice/ProfileServiceApplicationTests.java:7:	CommentRequired: Class comments are required
+src/test/java/com/pack/Profileservice/ProfileServiceApplicationTests.java:10:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the contextLoads method if you want a default access modifier
+src/test/java/com/pack/Profileservice/ProfileServiceApplicationTests.java:10:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the contextLoads method if you want a default access modifier
+src/test/java/com/pack/Profileservice/ProfileServiceApplicationTests.java:10:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+src/test/java/com/pack/Profileservice/ProfileServiceApplicationTests.java:10:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+src/test/java/com/pack/Profileservice/ProfileServiceApplicationTests.java:10:	UncommentedEmptyMethodBody: Document empty method body
+src/test/java/com/pack/Profileservice/ProfileServiceApplicationTests.java:10:	UncommentedEmptyMethodBody: Document empty method body
